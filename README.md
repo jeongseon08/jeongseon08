@@ -8,6 +8,7 @@ Nice to meet you👋
         src="http://img.shields.io/badge/-C_junction_-123456?style=flat&logo=Instagram&link=https://www.instagram.com/c_junction_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jeongseon)](https://velog.io/@jeongseon08) 
 
 <!--
