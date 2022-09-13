@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 강원대학교 제어계측공학과를 재학중인 최정선입니다.👋
 
 <!--
 **jeongseon08/jeongseon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
