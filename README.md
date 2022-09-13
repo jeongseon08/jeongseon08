@@ -1,12 +1,9 @@
 ### 안녕하세요. 강원대학교 제어계측공학과를 재학중인 최정선입니다.👋
 
-### hey there 
+### My SNS
 <a href=https://www.instagram.com/c_junction_/>
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-
 <!--
 **jeongseon08/jeongseon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
