@@ -3,7 +3,7 @@
 ## My SNS
 
 <a href=https://www.instagram.com/c_junction_>
-  <img align="left" alt="Jeongseon's Instagram" width="22px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png/>
+  <img align="left" alt="Jeongseon's Instagram" width="22px" src/>
 </a>
 
 
