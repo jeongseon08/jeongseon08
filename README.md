@@ -8,7 +8,7 @@
 
 
 <a href=https://jeongseon08.github.io>
-  <img align="left" alt="Jeongseon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Jeongseon's Instagram" width="22px" src=git icon/github.png />
 </a>
 
 <!--
