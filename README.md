@@ -2,7 +2,7 @@
 
 ## My SNS
 
-<a href=https://www.instagram.com/c_junction/>
+<a href=https://www.instagram.com/c_junction_>
   <img align="left" alt="Jeongseon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
