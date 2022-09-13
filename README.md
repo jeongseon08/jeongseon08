@@ -4,11 +4,11 @@
 
 <a href="https://www.instagram.com/c_junction_/">
     <img 
-        src="http://img.shields.io/badge/-쓰고싶은텍스트-222222?style=flat&logo=Instagram&link=https://www.instagram.com/c_junction_/"
+        src="http://img.shields.io/badge/-*Instagram*-000000?style=flat&logo=Instagram&link=https://www.instagram.com/c_junction_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@jeongseon08) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jeongseon)](https://velog.io/@jeongseon08) 
 
 
 <!--
