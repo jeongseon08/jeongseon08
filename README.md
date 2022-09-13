@@ -2,13 +2,16 @@
 
 ## My SNS
 
-<a href=https://www.instagram.com/c_junction_>
-  <img align="left" alt="Jeongseon's Instagram" width="22px" src=/>
+<a href="https://www.instagram.com/c_junction_/">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/본인인스타아이디/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-<a href=https://jeongseon08.github.io>
-  <img align="left" alt="Jeongseon's Github Blog" width="22px" src= />
+<a href=https://jeongseon08.github.io/>
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@본인벨로그아이디"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <!--
