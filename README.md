@@ -1,4 +1,5 @@
-### 안녕하세요. 강원대학교 제어계측공학과를 재학중인 최정선입니다.👋
+### Hi, My name is jeongseon Choi.
+Nice to meet you👋
 
 ## My SNS
 
