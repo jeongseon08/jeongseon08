@@ -3,12 +3,12 @@
 ## My SNS
 
 <a href=https://www.instagram.com/c_junction_>
-  <img align="left" alt="Jeongseon's Instagram" width="22px" src/>
+  <img align="left" alt="Jeongseon's Instagram" width="22px" src=/>
 </a>
 
 
 <a href=https://jeongseon08.github.io>
-  <img align="left" alt="Jeongseon's Instagram" width="22px" src=git icon/github.png />
+  <img align="left" alt="Jeongseon's Github Blog" width="22px" src= />
 </a>
 
 <!--
