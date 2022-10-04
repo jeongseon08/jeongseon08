@@ -1,6 +1,6 @@
 ### Hi, My name is jeongseon Choi.
 Nice to meet you👋
-
+This is my information. Thank you for reading it.
 ## My SNS
 
 <a href="https://www.instagram.com/c_junction_/">
